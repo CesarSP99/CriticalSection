@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574204139 source:d:\programacion upsa\sistemas operativos\criticalsection\filósofos chinos\main.cpp
+	<algorithm>
+	<array>
+	<atomic>
+	<chrono>
+	<cstdio>
+	<iostream>
+	<mutex>
+	<random>
+	<string>
+	<thread>
+
